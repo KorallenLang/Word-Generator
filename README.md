@@ -6,4 +6,4 @@ Advantages : Introduction to callback functions and event listeners, accessing h
 
 V1 : User inputs length in window prompt
 
-V2 : User inputs length in text label; The past user input for length are stored in the text label and visible when the user clicks to enter a new length
+V2 : User inputs length in text label; The past user input for length are stored in the text label and visible when the user clicks to enter a new length every time page is reloaded
